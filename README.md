@@ -1,4 +1,6 @@
-[![Robert's GitHub Banner](./banner.jpg)](https://robertfoerster.com/)
+<a href="https://robertfoerster.com/">
+  <img src="./banner.jpg" alt="Robert" width="100%"/>
+</a>
 <a href="https://github.com/foersterrobert/DQpoNg">
   <img src="https://raw.githubusercontent.com/foersterrobert/DQpoNg/master/assets/DQpoNg.gif" alt="DQpoNg" width="100%"/>
 </a>
